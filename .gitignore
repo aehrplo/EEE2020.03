@@ -1,0 +1,8 @@
+*.pdf
+*.o
+*.docx
+*.zip
+*.dSYM
+*/.vscode
+.DS_Store
+Thumbs.db
